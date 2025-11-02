@@ -1,0 +1,195 @@
+{
+  "roles": [
+    {
+      "title": "SOC Analyst (Tier 1)",
+      "domain": "Blue Team",
+      "summary": "Frontline alert triage, escalation, and documentation.",
+      "skills": [
+        "SIEM",
+        "Log Analysis",
+        "Linux Basics",
+        "Windows Basics",
+        "Ticketing",
+        "Networking"
+      ],
+      "certs": [
+        "Security+",
+        "CC",
+        "Splunk Core Certified"
+      ],
+      "links": [
+        {
+          "label": "Splunk Fundamentals",
+          "url": "https://education.splunk.com/learn/course/splunk-fundamentals-1"
+        },
+        {
+          "label": "TryHackMe SOC Path",
+          "url": "https://tryhackme.com/paths"
+        }
+      ]
+    },
+    {
+      "title": "Detection Engineer",
+      "domain": "Blue Team",
+      "summary": "Create, test, and tune detections from telemetry and threat intel.",
+      "skills": [
+        "Sigma",
+        "KQL/SQL",
+        "Threat Intel",
+        "Python",
+        "Windows Eventing",
+        "MITRE ATT&CK"
+      ],
+      "certs": [
+        "Azure SC-200",
+        "Elastic Analyst",
+        "GIAC GCDA"
+      ],
+      "links": [
+        {
+          "label": "ATT&CK Navigator",
+          "url": "https://mitre-attack.github.io/attack-navigator/"
+        },
+        {
+          "label": "Sigma HQ",
+          "url": "https://github.com/SigmaHQ/sigma"
+        }
+      ]
+    },
+    {
+      "title": "Application Security Engineer",
+      "domain": "AppSec",
+      "summary": "Secure SDLC, threat modeling, code review, and tooling.",
+      "skills": [
+        "OWASP Top 10",
+        "Threat Modeling",
+        "SAST/DAST",
+        "Dependency Scanning",
+        "CI/CD"
+      ],
+      "certs": [
+        "eJPT",
+        "eWPT",
+        "CSP"
+      ],
+      "links": [
+        {
+          "label": "OWASP Top Ten",
+          "url": "https://owasp.org/www-project-top-ten/"
+        },
+        {
+          "label": "Threat Dragon",
+          "url": "https://github.com/owasp/threat-dragon"
+        }
+      ]
+    },
+    {
+      "title": "Cloud Security Engineer",
+      "domain": "Cloud",
+      "summary": "Design and enforce guardrails across AWS/Azure/GCP.",
+      "skills": [
+        "IAM",
+        "Terraform",
+        "CSPM",
+        "Kubernetes",
+        "Networking",
+        "Python"
+      ],
+      "certs": [
+        "AWS SAA",
+        "AZ-500",
+        "GCP PCA"
+      ],
+      "links": [
+        {
+          "label": "AWS Well-Architected",
+          "url": "https://aws.amazon.com/architecture/well-architected/"
+        },
+        {
+          "label": "kube-bench",
+          "url": "https://github.com/aquasecurity/kube-bench"
+        }
+      ]
+    },
+    {
+      "title": "Threat Intelligence Analyst",
+      "domain": "IR/Threat Intel",
+      "summary": "Enrich alerts, track actors, and publish reports.",
+      "skills": [
+        "OSINT",
+        "YARA",
+        "TI Platforms",
+        "Writing",
+        "Scripting"
+      ],
+      "certs": [
+        "GCTI",
+        "CIRTA"
+      ],
+      "links": [
+        {
+          "label": "OTX (AlienVault)",
+          "url": "https://otx.alienvault.com/"
+        },
+        {
+          "label": "YARA Rules",
+          "url": "https://virustotal.github.io/yara/"
+        }
+      ]
+    },
+    {
+      "title": "Penetration Tester",
+      "domain": "Red Team",
+      "summary": "Internal/external tests, reporting, and remediation guidance.",
+      "skills": [
+        "AD Attack Paths",
+        "Burp Suite",
+        "Exploit Dev Basics",
+        "Linux",
+        "Windows",
+        "Scripting"
+      ],
+      "certs": [
+        "eJPT",
+        "eCPPT",
+        "OSCP"
+      ],
+      "links": [
+        {
+          "label": "Hack The Box",
+          "url": "https://www.hackthebox.com/"
+        },
+        {
+          "label": "PayloadsAllTheThings",
+          "url": "https://github.com/swisskyrepo/PayloadsAllTheThings"
+        }
+      ]
+    },
+    {
+      "title": "GRC Analyst",
+      "domain": "GRC",
+      "summary": "Policies, risk registers, audits, and compliance frameworks.",
+      "skills": [
+        "ISO 27001",
+        "NIST CSF",
+        "Risk Mgmt",
+        "Vendor Risk",
+        "Policy Writing"
+      ],
+      "certs": [
+        "CISM",
+        "ISO 27001 LA"
+      ],
+      "links": [
+        {
+          "label": "NIST CSF",
+          "url": "https://www.nist.gov/cyberframework"
+        },
+        {
+          "label": "ISO 27001 overview",
+          "url": "https://www.iso.org/standard/27001"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+🎯 Launching a free, community project: **Cyber Career Map**
+
+A simple interactive map of cybersecurity roles → core skills → certs → starter resources.
+Built to help students + career switchers. **Open to PRs** — add your role path or favorite resources!
+
+🔗 Live: <your GitHub Pages link>
+🛠 Tech: Static HTML/JS + JSON (no build step)
+🤝 How you can help: comment with missing roles, or submit a PR
+
+Tagging a few folks who share great learning content:
+@<mentor1> @<mentor2> @<hiring-manager> — your feedback would mean a lot!
+
+#cybersecurity #careers #blueTeam #appsec #cloud #grc #infosec #community
